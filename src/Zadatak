@@ -1,0 +1,6 @@
+Na stranicu ToDo lsite,
+dodati tekstualno polje za unos, i dugme.
+Prilikom klika na dugme, postavlja se username korisnika.
+Na stranici se zatim ispisuju svi njegovi taskovi
+Prilikom dodavanja taska, korisniku se na backend dodaje taj task,
+i ukoliko je uspesno dodat task, taj task se prikazuje i na front-u
